@@ -1,3 +1,4 @@
 {{extend 'layout.html'}}
 
-<h1>{{print(T("Welcome to the Chaosmentors"))}}</h1>
+<h1>{{=T("Chaosmentors-Welcome-Title")}}</h1>
+{{=MARKMIN(T("Project Introduction"))}}

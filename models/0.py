@@ -18,3 +18,7 @@ settings.login_method = 'local'
 settings.login_config = ''
 settings.plugins = []
 settings.license = XML('<a href="http://www.gnu.org/licenses/gpl-3.0.en.html" target="_new">GPL</a>')
+settings.version_major = 0
+settings.version_minor = 1
+settings.version_suffix = "alpha"
+settings.sourcecode = XML('Get it on <a href="https://github.com/bayleak/chaosmentors" target="_new">GITHUB</a>')
