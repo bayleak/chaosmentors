@@ -10,3 +10,9 @@
 [2015-08-27 22:07:03] EDIT chaospatinnen/models/0.py: 0
 [2015-08-27 22:07:39] EDIT chaospatinnen/models/0.py: 0
 [2015-08-27 22:10:16] EDIT chaospatinnen/models/0.py: 0
+[2015-08-27 22:47:23] DELETE chaospatinnen/languages/ar.py: -200
+[2015-08-27 22:47:28] DELETE chaospatinnen/languages/ca.py: -496
+[2015-08-27 22:47:33] DELETE chaospatinnen/languages/es.py: -452
+[2015-08-27 22:47:38] DELETE chaospatinnen/languages/fr.py: -211
+[2015-08-27 22:47:49] DELETE chaospatinnen/languages/cs.py: -500
+[2015-08-27 22:47:55] DELETE chaospatinnen/languages/fr-ca.py: -216
