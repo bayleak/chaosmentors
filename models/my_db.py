@@ -1,0 +1,2 @@
+# -*- coding: utf-8 -*-
+db.define_table('events',Field('name','string',label=T('Event-name'),required=True,unique=True),Field('description','text',label=T('Description')),Field('startdate','date',required=True,label=T('Event-Startdate')),Field('enddate','date',required=True,label=T('Event-Enddate')),auth.signature)

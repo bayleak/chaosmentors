@@ -32,3 +32,6 @@
 [2015-08-27 23:39:21] EDIT chaospatinnen/views/layout.html: 0
 [2015-08-27 23:39:28] EDIT chaospatinnen/models/0.py: 0
 [2015-08-27 23:39:50] EDIT chaospatinnen/models/0.py: 0
+[2015-08-28 00:00:06] CREATE app_db.py: 0
+[2015-08-28 00:11:12] EDIT chaospatinnen/models/app_db.py: 1
+[2015-08-28 00:13:55] EDIT chaospatinnen/models/my_db.py: 0
